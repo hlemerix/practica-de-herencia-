@@ -1,0 +1,41 @@
+# Universidad Tecnológica de Panamá
+## Facultad de Ingeniería de Sistemas Computacionales
+### Licenciatura en Ciberseguridad
+
+**Práctica:** Práctica sobre herencia  
+**Estudiante:** Hanna Licona  
+**Cédula:** 8-1050-1065  
+**Grupo:** 1S3122  
+**Asignatura:** Desarrollo Web  
+**Profesor:** Irina Fong  
+**Fecha:** 2 de octubre de 2026  
+
+---
+
+## RECURSOS
+* Computador.
+* Internet.
+* Guía de la investigación.
+* Biblioteca Virtual.
+* Bibliografía del curso.
+* Plataforma virtual utp.
+
+---
+
+## Tecnologías utilizadas
+
+* **HTML5:** Lo usamos para hacer la estructura de las páginas con etiquetas semánticas (`<header>`, `<main>`, `<section>` y `<footer>`) y para crear el formulario de registro de aspirantes.
+* **PHP:** Lo usamos para procesar el formulario en el servidor, validar los datos, calcular la edad, dar formato a los textos, guardar la foto y reutilizar el menú y el pie de página con `include`.
+* **Visual Studio Code:** Fue donde escribimos y editamos todo el código.
+* **WAMP:** Lo usamos para levantar el servidor local con Apache y PHP, y poder abrir las páginas desde `localhost`.
+
+---
+
+## Información relevante
+
+Este proyecto demuestra los conceptos fundamentales de la **Programación Orientada a Objetos (POO)** en PHP a través de un sistema de gestión académica y clases de vehículos:
+
+* **Herencia:** Permite que una clase hija (`Estudiante` o `Docente`) herede atributos y métodos de una clase padre (`Persona`), evitando duplicar código.
+* **Encapsulamiento:** Protege la información de los objetos mediante visibilidades (`protected` y `private`) y controla cómo se leen y modifican los datos.
+* **Restricción de Herencia (final):** Muestra cómo bloquear la extensión de una clase para evitar que otras clases hereden de ella.
+* **Enlace Estático Tardío (self:: vs static::):** Muestra cómo PHP resuelve a qué clase pertenece un método en tiempo de ejecución.
