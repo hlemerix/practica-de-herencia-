@@ -45,20 +45,6 @@ Este proyecto presenta conceptos fundamentales de la **Programación Orientada a
 
 ## Visualización
 
-Inicia un servidor PHP desde la carpeta del proyecto:
-
-```bash
-php -S localhost:8000
-```
-
-Abre cualquiera de estas páginas en el navegador para ver los ejercicios:
-
-- [Datos del estudiante](http://localhost:8000/estudiante.php)
-- [Datos del docente](http://localhost:8000/docente.php)
-- [Detalles del vehículo](http://localhost:8000/coche.php)
-- [Prueba de `self::` vs. `static::`](http://localhost:8000/EjemploLateStatic.php)
-- [Área y perímetro del círculo](http://localhost:8000/circulo.php)
-
 ### Área y perímetro del círculo
 
 ![Resultado del cálculo del área y perímetro del círculo](imagenes/circulo.png)
