@@ -4,7 +4,6 @@
 
 **Práctica:** Práctica sobre herencia  
 **Estudiante:** Hanna Licona  
-**Cédula:** 8-1050-1065  
 **Grupo:** 1S3122  
 **Asignatura:** Desarrollo Web  
 **Profesor:** Irina Fong  
