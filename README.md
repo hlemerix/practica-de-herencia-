@@ -1,5 +1,4 @@
-# Universidad Tecnológica de Panamá
-## Facultad de Ingeniería de Sistemas Computacionales
+# Universidad Tecnológica de Panamá Facultad de Ingeniería de Sistemas Computacionales
 ### Licenciatura en Ciberseguridad
 
 **Práctica:** Práctica sobre herencia  
